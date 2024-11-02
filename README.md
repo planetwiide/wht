@@ -1,3 +1,6 @@
+![whtlogo](https://github.com/user-attachments/assets/00724e2a-e268-4dad-b3d3-866fb51b1d14)
+
+
 ![⭐](https://img.shields.io/github/stars/planetwiide/wht?style=social)
 ![🍴](https://img.shields.io/github/forks/planetwiide/wht?style=social)
 ![🐞](https://img.shields.io/github/issues/planetwiide/wht)
