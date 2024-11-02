@@ -1,0 +1,10 @@
+D:\Nil\IT Projects\dtl\bin\Release\wht.exe.config
+D:\Nil\IT Projects\dtl\bin\Release\wht.exe
+D:\Nil\IT Projects\dtl\bin\Release\wht.pdb
+D:\Nil\IT Projects\dtl\bin\Release\Newtonsoft.Json.dll
+D:\Nil\IT Projects\dtl\bin\Release\Newtonsoft.Json.xml
+D:\Nil\IT Projects\dtl\obj\Release\wht.csproj.AssemblyReference.cache
+D:\Nil\IT Projects\dtl\obj\Release\wht.csproj.CoreCompileInputs.cache
+D:\Nil\IT Projects\dtl\obj\Release\wht.csproj.Up2Date
+D:\Nil\IT Projects\dtl\obj\Release\wht.exe
+D:\Nil\IT Projects\dtl\obj\Release\wht.pdb

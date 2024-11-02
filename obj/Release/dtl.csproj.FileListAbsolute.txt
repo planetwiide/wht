@@ -1,0 +1,20 @@
+C:\Users\nilch\source\repos\dtl\bin\Release\wht.exe.config
+C:\Users\nilch\source\repos\dtl\bin\Release\wht.exe
+C:\Users\nilch\source\repos\dtl\bin\Release\wht.pdb
+C:\Users\nilch\source\repos\dtl\bin\Release\Newtonsoft.Json.dll
+C:\Users\nilch\source\repos\dtl\bin\Release\Newtonsoft.Json.xml
+C:\Users\nilch\source\repos\dtl\obj\Release\dtl.csproj.AssemblyReference.cache
+C:\Users\nilch\source\repos\dtl\obj\Release\dtl.csproj.CoreCompileInputs.cache
+C:\Users\nilch\source\repos\dtl\obj\Release\dtl.csproj.Up2Date
+C:\Users\nilch\source\repos\dtl\obj\Release\wht.exe
+C:\Users\nilch\source\repos\dtl\obj\Release\wht.pdb
+D:\Nil\IT Projects\dtl\bin\Release\wht.exe.config
+D:\Nil\IT Projects\dtl\bin\Release\wht.exe
+D:\Nil\IT Projects\dtl\bin\Release\wht.pdb
+D:\Nil\IT Projects\dtl\bin\Release\Newtonsoft.Json.dll
+D:\Nil\IT Projects\dtl\bin\Release\Newtonsoft.Json.xml
+D:\Nil\IT Projects\dtl\obj\Release\dtl.csproj.AssemblyReference.cache
+D:\Nil\IT Projects\dtl\obj\Release\dtl.csproj.CoreCompileInputs.cache
+D:\Nil\IT Projects\dtl\obj\Release\dtl.csproj.Up2Date
+D:\Nil\IT Projects\dtl\obj\Release\wht.exe
+D:\Nil\IT Projects\dtl\obj\Release\wht.pdb

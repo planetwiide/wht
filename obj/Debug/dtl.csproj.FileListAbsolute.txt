@@ -1,0 +1,10 @@
+C:\Users\nilch\source\repos\dtl\bin\Debug\dtl.exe.config
+C:\Users\nilch\source\repos\dtl\bin\Debug\dtl.exe
+C:\Users\nilch\source\repos\dtl\bin\Debug\dtl.pdb
+C:\Users\nilch\source\repos\dtl\obj\Debug\dtl.csproj.AssemblyReference.cache
+C:\Users\nilch\source\repos\dtl\obj\Debug\dtl.csproj.CoreCompileInputs.cache
+C:\Users\nilch\source\repos\dtl\obj\Debug\dtl.exe
+C:\Users\nilch\source\repos\dtl\obj\Debug\dtl.pdb
+C:\Users\nilch\source\repos\dtl\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nilch\source\repos\dtl\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nilch\source\repos\dtl\obj\Debug\dtl.csproj.Up2Date
