@@ -55,6 +55,15 @@
 3. Follow the prompts for each function.
 
 ---
+## 🖼️ Preview
+![image](https://github.com/user-attachments/assets/7c214cf6-1824-44ac-9778-24ecf8114a23)
+![image](https://github.com/user-attachments/assets/f0df41e4-101a-449c-a4e2-82ea23e08aba)
+![image](https://github.com/user-attachments/assets/c281b88a-45f3-4d88-8eb7-e02885ce773f)
+![Capture d'écran 2024-11-02 191206](https://github.com/user-attachments/assets/fcd55e6e-b721-43d7-a7ae-3bf1a14c85d6)
+
+
+
+---
 
 ## 🤝 Contributing
 
