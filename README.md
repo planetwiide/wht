@@ -19,6 +19,7 @@
 - [x] Webhook messaging ⚡
 - [x] Guild info retrieval 🍃
 - [x] User status checks 🔍
+- [ ] Way more features incoming 👀
 - [ ] Integrated token management 🏯
 - [ ] Support for advanced message formatting 🎀
 
