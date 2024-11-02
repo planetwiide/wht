@@ -46,9 +46,7 @@
 
 ### Run the Application
 
-```bash
-dotnet run
-```
+- Execute the .exe file.
 
 ## 🖥️ Usage
 
